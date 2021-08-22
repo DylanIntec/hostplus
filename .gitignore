@@ -1,0 +1,5 @@
+.venv
+.vscode
+credentials.txt
+.DS_Store
+historical_data.txt
